@@ -1,2 +1,6 @@
-pages
-window 导航栏 background tab overtime debug
+配置
+pages 1路径 2 3 4
+window 导航栏 background pulldownrefresh
+tabbar list 图形 字体 选中
+network timeout 
+debug
